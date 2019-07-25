@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/ribice/gorsk/pkg/api/user"
+	"github.com/DatTran1597/gorsk/pkg/api/user"
 
-	gorsk "github.com/ribice/gorsk/pkg/utl/model"
+	gorsk "github.com/DatTran1597/gorsk/pkg/utl/model"
 
 	"github.com/labstack/echo"
 )

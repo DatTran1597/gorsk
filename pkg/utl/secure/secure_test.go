@@ -4,7 +4,7 @@ import (
 	"crypto/sha1"
 	"testing"
 
-	"github.com/ribice/gorsk/pkg/utl/secure"
+	"github.com/DatTran1597/gorsk/pkg/utl/secure"
 	"github.com/stretchr/testify/assert"
 )
 

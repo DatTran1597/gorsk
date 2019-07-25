@@ -1,16 +1,15 @@
 database:
   log_queries: true
   timeout_seconds: 5
-  psn: postgres://biadpozi:3_Czbl7jSjkUEWk--VP8QXMke-mFnczq@horton.elephantsql.com:5432/biadpozi
-
+  psn: postgres://postgres:tamon12@127.0.0.1:5432/TestBranch42?sslmode=disable
 server:
-  port: :8080
-  debug: true
+  port: :9000
+  debug: false
   read_timeout_seconds: 10
   write_timeout_seconds: 5
 
 jwt:
-  secret: jwtrealm # Change this value
+  secret: asdasdawdasdwa # Change this value
   duration_minutes: 15
   refresh_duration_minutes: 15
   max_refresh_minutes: 1440

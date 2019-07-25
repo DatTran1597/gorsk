@@ -2,7 +2,7 @@ package mock
 
 import (
 	"github.com/labstack/echo"
-	"github.com/ribice/gorsk/pkg/utl/model"
+	"github.com/DatTran1597/gorsk/pkg/utl/model"
 )
 
 // RBAC Mock

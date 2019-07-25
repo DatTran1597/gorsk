@@ -3,10 +3,10 @@ package pgsql_test
 import (
 	"testing"
 
-	"github.com/ribice/gorsk/pkg/utl/model"
+	"github.com/DatTran1597/gorsk/pkg/utl/model"
 
-	"github.com/ribice/gorsk/pkg/api/password/platform/pgsql"
-	"github.com/ribice/gorsk/pkg/utl/mock"
+	"github.com/DatTran1597/gorsk/pkg/api/password/platform/pgsql"
+	"github.com/DatTran1597/gorsk/pkg/utl/mock"
 	"github.com/stretchr/testify/assert"
 )
 

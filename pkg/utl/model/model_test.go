@@ -3,8 +3,8 @@ package gorsk_test
 import (
 	"testing"
 
-	"github.com/ribice/gorsk/pkg/utl/mock"
-	gorsk "github.com/ribice/gorsk/pkg/utl/model"
+	"github.com/DatTran1597/gorsk/pkg/utl/mock"
+	gorsk "github.com/DatTran1597/gorsk/pkg/utl/model"
 )
 
 func TestBeforeInsert(t *testing.T) {

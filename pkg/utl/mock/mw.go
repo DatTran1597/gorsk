@@ -1,7 +1,7 @@
 package mock
 
 import (
-	"github.com/ribice/gorsk/pkg/utl/model"
+	"github.com/DatTran1597/gorsk/pkg/utl/model"
 )
 
 // JWT mock
